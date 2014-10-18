@@ -4,3 +4,4 @@
 
 * / respond with error/instructions
 * /story/random - returns a random NYT stream story thing
+* /story/find - returns a story based on title
