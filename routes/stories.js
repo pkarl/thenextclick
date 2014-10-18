@@ -13,15 +13,22 @@ router.get('/', function(req, res) {
 });
 
 router.get('/find', function(req, res) {
+	res.send
 	fs.readFile(__dirname + '/../public/data/stories.json', 'utf8', function(err, data) {
 		if (err) { return console.log(err); }
 		var title = req.param("title");
-		_.each(data.results, function(item){
+		var stories = JSON.parse(data).results;
+		var story_found = false;
+		_.each(stories, function(story){
 			console.log('running!!!');
-			if (item.title === title){
-				res.send(item);
+			if (story.title === title){
+				res.send(story);
+				story_found = true;
 			}
 		})
+		if (!story_found) {
+			res.send({"error": "No story is found."});
+		}
 	});
 });
 
