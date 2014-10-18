@@ -12,6 +12,19 @@ router.get('/', function(req, res) {
 	});
 });
 
+router.get('/find', function(req, res) {
+	fs.readFile(__dirname + '/../public/data/stories.json', 'utf8', function(err, data) {
+		if (err) { return console.log(err); }
+		var title = req.param("title");
+		_.each(data.results, function(item){
+			console.log('running!!!');
+			if (item.title === title){
+				res.send(item);
+			}
+		})
+	});
+});
+
 function mapToNiceness(rawStory) {
 
 	// headline
@@ -20,7 +33,7 @@ function mapToNiceness(rawStory) {
 	// media?? first photo maybe?
 	// timestamp
 	// facets
-	
+
 	story = {
 		headline: rawStory.title,
 		byline: rawStory.byline,
