@@ -20,7 +20,6 @@ router.get('/find', function(req, res) {
 		var stories = JSON.parse(data).results;
 		var story_found = false;
 		_.each(stories, function(story){
-			console.log('running!!!');
 			if (story.title === title){
 				res.send( mapToNiceness(story) );
 				story_found = true;
