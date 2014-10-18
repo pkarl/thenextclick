@@ -22,7 +22,7 @@ router.get('/find', function(req, res) {
 		_.each(stories, function(story){
 			console.log('running!!!');
 			if (story.title === title){
-				res.send(story);
+				res.send( mapToNiceness(story) );
 				story_found = true;
 			}
 		})
