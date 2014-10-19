@@ -7,13 +7,16 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res) {
+	res.setHeader("Access-Control-Allow-Origin", "*");
 	res.send({
 		'foo': 'to the bar'
 	});
 });
 
 router.get('/find', function(req, res) {
-	res.send
+
+	res.setHeader("Access-Control-Allow-Origin", "*");
+
 	fs.readFile(__dirname + '/../public/data/stories.json', 'utf8', function(err, data) {
 		if (err) { return console.log(err); }
 		var title = req.param("title");
