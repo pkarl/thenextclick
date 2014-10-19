@@ -62,7 +62,7 @@ function mapToNiceness(rawStory) {
 /* get ANY story */
 router.get('/random', function(req, res) {
 
-	this.response.setHeader("Access-Control-Allow-Origin", "*");
+	res.setHeader("Access-Control-Allow-Origin", "*");
 
 	fs.readFile(__dirname + '/../public/data/stories.json', 'utf8', function(err, data) {
 		if (err) { return console.log(err); }
