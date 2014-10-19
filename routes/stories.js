@@ -34,6 +34,25 @@ router.get('/find', function(req, res) {
 	});
 });
 
+/* get ANY story */
+router.get('/random', function(req, res) {
+
+	res.setHeader("Access-Control-Allow-Origin", "*");
+
+	// if the request contains a "channel", use that. Otherwise, use stories.
+	var source = req.param("channel") ? req.param("channel") : 'stories';
+
+	fs.readFile(__dirname + '/../public/data/' + source + '.json', 'utf8', function(err, data) {
+		if (err) { return console.log(err); }
+
+		var stories = JSON.parse(data);
+		var randomStory = stories.results[Math.floor(Math.random()*stories.results.length)];
+
+		res.send( mapToNiceness(randomStory) );
+	});
+
+});
+
 function mapToNiceness(rawStory) {
 
 	// headline
@@ -57,28 +76,14 @@ function mapToNiceness(rawStory) {
 	};
 
 	story.thumb = rawStory.thumbnail_standard;
-	story.photo = rawStory.multimedia[3];
+	if(rawStory.hasOwnProperty('multimedia')) {
+		story.photo = rawStory.multimedia[3].url;
+	} else if(rawStory.hasOwnProperty('media')) {
+		story.photo = rawStory['media-metadata'][0].url;
+	}
 
 	return story;
 }
 
-/* get ANY story */
-router.get('/random', function(req, res) {
-
-	res.setHeader("Access-Control-Allow-Origin", "*");
-
-	// if the request contains a "channel", use that. Otherwise, use stories.
-	var source = req.param("channel") ? req.param("channel") : 'stories';
-
-	fs.readFile(__dirname + '/../public/data/' + source + '.json', 'utf8', function(err, data) {
-		if (err) { return console.log(err); }
-
-		var stories = JSON.parse(data);
-		var randomStory = stories.results[Math.floor(Math.random()*stories.results.length)];
-
-		res.send( mapToNiceness(randomStory) );
-	});
-
-});
 
 module.exports = router;
