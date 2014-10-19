@@ -79,7 +79,7 @@ function mapToNiceness(rawStory) {
 	if(rawStory.hasOwnProperty('multimedia')) {
 		story.photo = rawStory.multimedia[3].url;
 	} else if(rawStory.hasOwnProperty('media')) {
-		story.photo = rawStory.media[0]['media-metadata'][0].url;
+		story.photo = rawStory.media[0]['media-metadata'][2].url;
 	}
 
 	return story;
