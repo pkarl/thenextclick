@@ -67,7 +67,10 @@ router.get('/random', function(req, res) {
 
 	res.setHeader("Access-Control-Allow-Origin", "*");
 
-	fs.readFile(__dirname + '/../public/data/stories.json', 'utf8', function(err, data) {
+	// if the request contains a "channel", use that. Otherwise, use stories.
+	var source = req.param("channel") ? req.param("channel") : 'stories';
+
+	fs.readFile(__dirname + '/../public/data/' + source + '.json', 'utf8', function(err, data) {
 		if (err) { return console.log(err); }
 
 		var stories = JSON.parse(data);

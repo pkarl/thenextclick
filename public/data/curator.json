@@ -1,0 +1,1520 @@
+{
+	"status": "OK",
+	"copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+	"num_results": 136,
+	"results": [{
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/21\/us\/drive-by-doctoring-surprise-medical-bills.html",
+		"adx_keywords": "Health Insurance and Managed Care;Doctors;Series;Surgery and Surgeons;Hospitals;Paying Till It Hurts (Series)",
+		"column": "Paying Till It Hurts",
+		"section": "U.S.",
+		"byline": "By ELISABETH ROSENTHAL",
+		"type": "Article",
+		"title": "After Surgery, Surprise $117,000 Medical Bill From Doctor He Didn\u2019t Know",
+		"abstract": "In a growing practice, medical assistants, consultants and other hospital staffers, often called in without patients&#8217; knowledge, are charging hefty fees.",
+		"published_date": "2014-09-21",
+		"source": "The New York Times",
+		"id": "100000003116096",
+		"asset_id": 100000003116096,
+		"views": 1,
+		"des_facet": ["HEALTH INSURANCE AND MANAGED CARE", "SERIES", "SURGERY AND SURGEONS"],
+		"org_facet": ["AETNA INC", "AET", "NYSE"],
+		"per_facet": "",
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Peter Drier was billed by an assistant surgeon he did not know was on his case.",
+			"copyright": "",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/DRIVEBY\/DRIVEBY-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/DRIVEBY\/DRIVEBY-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/DRIVEBY\/DRIVEBY-mediumThreeByTwo210-v2.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Peter Drier, a bank technology manager in New York City, was blindsided after neck surgery by a $117,000 bill from a doctor he did not recall meeting.",
+			"copyright": "Joshua Bright for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-drier\/21driveby-drier-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-drier\/21driveby-drier-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-drier\/21driveby-drier-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Patricia Kaufman, at home in Highland Park, N.J., with her husband, Alan, was charged $250,000 by two plastic surgeons who sewed up an incision after her back surgery.",
+			"copyright": "Matt Rainey for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-kaufman\/21driveby-kaufman-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-kaufman\/21driveby-kaufman-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-kaufman\/21driveby-kaufman-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Insurers have gone to court with NeuroAxis Neurosurgical Associates, a private practice in Queens, over what they call excessive fees for surgical assistants.",
+			"copyright": "Uli Seit for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-neuroAxis\/21driveby-neuroAxis-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-neuroAxis\/21driveby-neuroAxis-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-neuroAxis\/21driveby-neuroAxis-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Mark Sullivan, 46, of New Jersey, received a hospital bill that included charges for occupational therapy, which he did not realize had occurred.",
+			"copyright": "",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-sullivan-bill-occupational\/21driveby-sullivan-bill-occupational-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-sullivan-bill-occupational\/21driveby-sullivan-bill-occupational-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/us\/21driveby-sullivan-bill-occupational\/21driveby-sullivan-bill-occupational-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/18\/us\/amid-assurances-on-ebola-obama-is-said-to-seethe.html",
+		"adx_keywords": "Ebola Virus;Obama, Barack;Centers for Disease Control and Prevention;National Security Council;Islamic State in Iraq and Syria (ISIS);Rice, Susan E;Klain, Ronald A",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By MICHAEL D. SHEAR and MARK LANDLER",
+		"type": "Article",
+		"title": "Amid Assurances on Ebola, Obama Is Said to Seethe",
+		"abstract": "President Obama has assured the public that the government\u2019s response was adequate. But he has also quietly faulted the handling as \u201cnot tight.\u201d",
+		"published_date": "2014-10-18",
+		"source": "The New York Times",
+		"id": "100000003183761",
+		"asset_id": 100000003183761,
+		"views": 2,
+		"des_facet": "",
+		"org_facet": ["CENTERS FOR DISEASE CONTROL AND PREVENTION", "NATIONAL SECURITY COUNCIL", "ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)"],
+		"per_facet": ["OBAMA, BARACK", "RICE, SUSAN E", "KLAIN, RONALD A"],
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "People briefed on a cabinet meeting said Mr. Obama was angry at the Ebola response.",
+			"copyright": "Jabin Botsford\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/OBAMA\/OBAMA-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/OBAMA\/OBAMA-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/OBAMA\/OBAMA-mediumThreeByTwo210-v2.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/16\/us\/ebola-outbreak-texas.html",
+		"adx_keywords": "Ebola Virus;Centers for Disease Control and Prevention;Vinson, Amber Joy;Airlines and Airplanes;Duncan, Thomas Eric;Pham, Nina;Epidemics;Dallas (Tex);Texas;Texas Health Presbyterian Hospital;Nursing and Nurses",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By MANNY FERNANDEZ and JACK HEALY",
+		"type": "Article",
+		"title": "With New Ebola Case Confirmed, U.S. Vows Vigilance",
+		"abstract": "The news that a second nurse was infected in Dallas and that she was cleared to fly the day before showing symptoms raised questions about officials\u2019 ability to control the disease.",
+		"published_date": "2014-10-16",
+		"source": "The New York Times",
+		"id": "100000003176851",
+		"asset_id": 100000003176851,
+		"views": 3,
+		"des_facet": ["EBOLA VIRUS", "AIRLINES AND AIRPLANES", "EPIDEMICS", "NURSING AND NURSES"],
+		"org_facet": ["CENTERS FOR DISEASE CONTROL AND PREVENTION", "TEXAS HEALTH PRESBYTERIAN HOSPITAL"],
+		"per_facet": ["VINSON, AMBER JOY", "DUNCAN, THOMAS ERIC", "PHAM, NINA"],
+		"geo_facet": ["DALLAS (TEX)", "TEXAS"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "An ambulance on Wednesday took Amber Joy Vinson to the Dallas airport for transport to Emory University Hospital in Atlanta.",
+			"copyright": "Jaime R. Carrero\/Reuters",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA1\/JP-EBOLA1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA1\/JP-EBOLA1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA1\/JP-EBOLA1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Workers also cordoned off Ms. Vinson's apartment.",
+			"copyright": "Sana Syed\/City of Dallas Public Information, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA2\/JP-EBOLA2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA2\/JP-EBOLA2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA2\/JP-EBOLA2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "In Washington, President Obama directed his aides to monitor the Ebola outbreak in a &ldquo;more aggressive way.&rdquo;",
+			"copyright": "Jabin Botsford\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA3\/JP-EBOLA3-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA3\/JP-EBOLA3-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/JP-EBOLA3\/JP-EBOLA3-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/18\/us\/ferguson-case-officer-is-said-to-cite-struggle.html",
+		"adx_keywords": "Police Brutality, Misconduct and Shootings;Ferguson (Mo);Brown, Michael (1996-2014);Wilson, Darren (1986- )",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By MICHAEL S. SCHMIDT, MATT APUZZO and JULIE BOSMAN",
+		"type": "Article",
+		"title": "Police Officer in Ferguson Is Said to Recount a Struggle",
+		"abstract": "The man who fatally shot a teenager in Missouri in August has told investigators that he feared for his life, according to officials.",
+		"published_date": "2014-10-18",
+		"source": "The New York Times",
+		"id": "100000003183695",
+		"asset_id": 100000003183695,
+		"views": 4,
+		"des_facet": ["POLICE BRUTALITY, MISCONDUCT AND SHOOTINGS"],
+		"org_facet": "",
+		"per_facet": ["BROWN, MICHAEL (1996-2014)", "WILSON, DARREN (1986- )"],
+		"geo_facet": ["FERGUSON (MO)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Investigators with Michael Brown&rsquo;s body on Aug. 9.",
+			"copyright": "Tiffany Mitchell\/KMOV-TV, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/JP-FERGUSON1\/JP-FERGUSON1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/JP-FERGUSON1\/JP-FERGUSON1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/JP-FERGUSON1\/JP-FERGUSON1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Darren Wilson, the officer who shot Mr. Brown, at a City Council meeting in Ferguson, Mo., in February.",
+			"copyright": "Uncredited\/City of Ferguson, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/JP-FERGUSON2\/JP-FERGUSON2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/JP-FERGUSON2\/JP-FERGUSON2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/JP-FERGUSON2\/JP-FERGUSON2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/03\/us\/dallas-ebola-case-thomas-duncan-contacts.html",
+		"adx_keywords": "Ebola Virus;Dallas (Tex);Texas;Duncan, Thomas Eric;Liberia",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By KEVIN SACK and MANNY FERNANDEZ",
+		"type": "Article",
+		"title": "Delay in Dallas Ebola Cleanup as Workers Balk at Task",
+		"abstract": "Local and federal health officials have displayed an uneven and often-flawed response to the first Ebola case diagnosed in the United States.",
+		"published_date": "2014-10-03",
+		"source": "The New York Times",
+		"id": "100000003153531",
+		"asset_id": 100000003153531,
+		"views": 5,
+		"des_facet": ["EBOLA VIRUS"],
+		"org_facet": "",
+		"per_facet": ["DUNCAN, THOMAS ERIC"],
+		"geo_facet": ["DALLAS (TEX)", "TEXAS", "LIBERIA"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Zachary Thompson and Christopher Perkins, Dallas County health officials, leaving the home where Thomas E. Duncan stayed.",
+			"copyright": "Tony Gutierrez\/Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/JP-DALLAS\/JP-DALLAS-thumbStandard-v2.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/JP-DALLAS\/JP-DALLAS-thumbLarge-v2.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/JP-DALLAS\/JP-DALLAS-mediumThreeByTwo210-v2.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The Texas Health Presbyterian Hospital in Dallas, where Thomas E. Duncan first sought treatment last week but was sent home.",
+			"copyright": "Richard Rodriguez\/European Pressphoto Agency",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/03DALLAS1-web\/03DALLAS1-web-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/03DALLAS1-web\/03DALLAS1-web-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/03DALLAS1-web\/03DALLAS1-web-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/08\/us\/politics\/in-this-election-obamas-party-benches-him.html",
+		"adx_keywords": "Obama, Barack;United States;Midterm Elections (2014);United States Politics and Government;Democratic Party",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By JONATHAN MARTIN",
+		"type": "Article",
+		"title": "In This Election, Obama&#8217;s Party Benches Him",
+		"abstract": "Democratic candidates \u2014 even those in states like Virginia that the president carried in 2008 and 2012 \u2014 do not want President Obama to campaign for them.",
+		"published_date": "2014-10-08",
+		"source": "The New York Times",
+		"id": "100000003163714",
+		"asset_id": 100000003163714,
+		"views": 6,
+		"des_facet": ["MIDTERM ELECTIONS (2014)"],
+		"org_facet": ["DEMOCRATIC PARTY"],
+		"per_facet": ["OBAMA, BARACK"],
+		"geo_facet": ["UNITED STATES"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "President Obama headed to Marine One for fund-raising trips Tuesday to New York, Los Angeles and San Francisco. There have been few campaign trips in 2014.",
+			"copyright": "Doug Mills\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/JP-OBAMA\/JP-OBAMA-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/JP-OBAMA\/JP-OBAMA-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/JP-OBAMA\/JP-OBAMA-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "President Obama in the Oval Office on Tuesday.",
+			"copyright": "Doug Mills\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/08OBAMA-1\/08OBAMA-1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/08OBAMA-1\/08OBAMA-1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/08OBAMA-1\/08OBAMA-1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/03\/us\/california-drought-tulare-county.html",
+		"adx_keywords": "Water;Drought;Porterville (Calif);California;Tulare County (Calif)",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By JENNIFER MEDINA",
+		"type": "Article",
+		"title": "With Dry Taps and Toilets, California Drought Turns Desperate ",
+		"abstract": "In Tulare County, hit hard by a relentless drought, daily routines have been upended by the drying of wells and the disappearance of tap water.",
+		"published_date": "2014-10-03",
+		"source": "The New York Times",
+		"id": "100000003132899",
+		"asset_id": 100000003132899,
+		"views": 7,
+		"des_facet": ["WATER"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["PORTERVILLE (CALIF)", "CALIFORNIA", "TULARE COUNTY (CALIF)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Angelica Gallegos of Porterville, Calif., has not had running water for more than five months.",
+			"copyright": "Jim Wilson\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/DROUGHT\/DROUGHT-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/DROUGHT\/DROUGHT-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/DROUGHT\/DROUGHT-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Fred Beltran, left, and Frankie Olmedo unloading drinking water and buckets in Porterville, Calif., where taps have grown dry and residents frustrated.",
+			"copyright": "Jim Wilson\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/03DROUGHT-5\/03DROUGHT-5-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/03DROUGHT-5\/03DROUGHT-5-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/03DROUGHT-5\/03DROUGHT-5-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "At a firehouse in Tulare County, Anthony Hernandez last month filled 55-gallon barrels with nonpotable water to be used for bathing, washing clothes and flushing toilets at his home.",
+			"copyright": "Jim Wilson\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/JP-DROUGHT2\/JP-DROUGHT2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/JP-DROUGHT2\/JP-DROUGHT2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/us\/JP-DROUGHT2\/JP-DROUGHT2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/07\/us\/denying-review-justices-clear-way-for-gay-marriage-in-5-states.html",
+		"adx_keywords": "Same-Sex Marriage, Civil Unions and Domestic Partnerships;Supreme Court (US);Indiana;Oklahoma;Utah;Wisconsin;Virginia",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By ADAM LIPTAK",
+		"type": "Article",
+		"title": "Supreme Court Delivers Tacit Win to Gay Marriage",
+		"abstract": "The Supreme Court let stand appeals court rulings allowing same-sex marriage in five states in a move that may signal the inevitability of a nationwide right to such unions.",
+		"published_date": "2014-10-07",
+		"source": "The New York Times",
+		"id": "100000003159984",
+		"asset_id": 100000003159984,
+		"views": 8,
+		"des_facet": ["SAME-SEX MARRIAGE, CIVIL UNIONS AND DOMESTIC PARTNERSHIPS"],
+		"org_facet": ["SUPREME COURT (US)"],
+		"per_facet": "",
+		"geo_facet": ["INDIANA", "OKLAHOMA", "UTAH", "WISCONSIN", "VIRGINIA"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Tammy and Sylvia Torres wed in Fredericksburg, Va., as marriages began in five states.",
+			"copyright": "Reza A. Marvashti\/The Free Lance-Star, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/MARRIAGE\/MARRIAGE-thumbStandard-v2.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/MARRIAGE\/MARRIAGE-thumbLarge-v2.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/MARRIAGE\/MARRIAGE-mediumThreeByTwo210-v2.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Protesters outside the Supreme Court. Opponents of same-sex marriage expressed frustration.",
+			"copyright": "Alex Wong\/Getty Images",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/JP-MARRIAGE\/JP-MARRIAGE-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/JP-MARRIAGE\/JP-MARRIAGE-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/JP-MARRIAGE\/JP-MARRIAGE-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/26\/us\/politics\/eric-holder-resigning-as-attorney-general.html",
+		"adx_keywords": "Holder, Eric H Jr;Justice Department;Attorneys General;United States Politics and Government;Obama, Barack",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By MICHAEL D. SHEAR",
+		"type": "Article",
+		"title": "Eric Holder Resigns, Setting Up Fight Over Successor",
+		"abstract": "Replacing the U.S. Attorney General, who provoked the ire of Republicans as President Obama\u2019s chief liberal warrior, could be a political nightmare.",
+		"published_date": "2014-09-26",
+		"source": "The New York Times",
+		"id": "100000003137975",
+		"asset_id": 100000003137975,
+		"views": 9,
+		"des_facet": ["ATTORNEYS GENERAL", "UNITED STATES POLITICS AND GOVERNMENT"],
+		"org_facet": ["JUSTICE DEPARTMENT"],
+		"per_facet": ["HOLDER, ERIC H JR", "OBAMA, BARACK"],
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "President Obama after announcing Attorney General Eric H. Holder Jr.&rsquo;s resignation.",
+			"copyright": "Doug Mills\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/JP-HOLDER1\/JP-HOLDER1-thumbStandard-v2.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/JP-HOLDER1\/JP-HOLDER1-thumbLarge-v2.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/JP-HOLDER1\/JP-HOLDER1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Possible successors include, from left: Kathryn Ruemmler, a former White House counsel; Gov. Deval Patrick of Massachusetts; and Solicitor General Donald B. Verrilli Jr.",
+			"copyright": "",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/26HOLDER1combo\/26HOLDER1combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/26HOLDER1combo\/26HOLDER1combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/26HOLDER1combo\/26HOLDER1combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Other potential candidates include, from left, former Gov. Jennifer M. Granholm of Michigan; Senator Sheldon Whitehouse of Rhode Island; and two United States attorneys, Preet Bharara of New York and Loretta E. Lynch of Brooklyn.",
+			"copyright": "",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/26HOLDER2combo\/26HOLDER2combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/26HOLDER2combo\/26HOLDER2combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/26\/us\/26HOLDER2combo\/26HOLDER2combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/13\/us\/texas-health-worker-tests-positive-for-ebola.html",
+		"adx_keywords": "Ebola Virus;Texas Health Presbyterian Hospital;Dallas (Tex);Nursing and Nurses;Tests (Medical);Epidemics",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By MANNY FERNANDEZ",
+		"type": "Article",
+		"title": "2nd Ebola Case in U.S. Stokes Fears of Health Care Workers",
+		"abstract": "Officials were trying to figure out how a nurse who had treated Thomas Eric Duncan became infected despite wearing protective gear, as news of the new infection stoked the fears of health care workers across the country.",
+		"published_date": "2014-10-13",
+		"source": "The New York Times",
+		"id": "100000003171576",
+		"asset_id": 100000003171576,
+		"views": 10,
+		"des_facet": ["EBOLA VIRUS", "NURSING AND NURSES", "TESTS (MEDICAL)", "EPIDEMICS"],
+		"org_facet": ["TEXAS HEALTH PRESBYTERIAN HOSPITAL"],
+		"per_facet": "",
+		"geo_facet": ["DALLAS (TEX)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "A hazardous-materials crew on Sunday cleaned outside the Dallas apartment building of a nurse who was infected with Ebola.",
+			"copyright": "Larry W. Smith\/European Pressphoto Agency",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-1\/EBOLA-1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-1\/EBOLA-1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-1\/EBOLA-1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Mayor Mike Rawlings spoke to residents of the street.",
+			"copyright": "LM Otero\/Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-2\/EBOLA-2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-2\/EBOLA-2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-2\/EBOLA-2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "In response to the latest report of the second victim in Dallas, officials moved swiftly to clean and decontaminate many places where the nurse had been.",
+			"copyright": "Cooper Neill for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/13EBOLA-3\/13EBOLA-3-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/13EBOLA-3\/13EBOLA-3-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/13EBOLA-3\/13EBOLA-3-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Debra Buccellato, an emergency room nurse in Santa Rosa, Calif., said she had not undergone any active training for Ebola.",
+			"copyright": "Jason Henry for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/JP-EBOLA2\/JP-EBOLA2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/JP-EBOLA2\/JP-EBOLA2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/JP-EBOLA2\/JP-EBOLA2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The authorities distributed informational fliers.",
+			"copyright": "Louis Deluca\/The Dallas Morning News, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-3\/EBOLA-3-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-3\/EBOLA-3-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/EBOLA-3\/EBOLA-3-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "A police officer provided security on Sunday at the Dallas residence of a nurse who had contracted Ebola. A barrel, left, held hazardous materials from a cleanup.",
+			"copyright": "LM Otero\/Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/JP-EBOLA1\/JP-EBOLA1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/JP-EBOLA1\/JP-EBOLA1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/13\/us\/JP-EBOLA1\/JP-EBOLA1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/15\/us\/david-greenglass-spy-who-helped-seal-the-rosenbergs-doom-dies-at-92.html",
+		"adx_keywords": "Deaths (Obituaries);Rosenberg, Ethel;Rosenberg, Julius;Espionage and Intelligence Services;Cold War Era;Greenglass, David",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By ROBERT D. McFADDEN",
+		"type": "Article",
+		"title": "David Greenglass, the Brother Who Doomed Ethel Rosenberg, Dies at 92",
+		"abstract": "Mr. Greenglass, whose testimony against his sister and brother-in-law, Ethel and Julius Rosenberg, in a 1951 spy trial helped send them to the electric chair, later admitted to lying.",
+		"published_date": "2014-10-15",
+		"source": "The New York Times",
+		"id": "100000003175338",
+		"asset_id": 100000003175338,
+		"views": 11,
+		"des_facet": ["COLD WAR ERA"],
+		"org_facet": "",
+		"per_facet": ["ROSENBERG, ETHEL", "ROSENBERG, JULIUS", "GREENGLASS, DAVID"],
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "David Greenglass at a Senate Internal Security subcommittee hearing about American spying activities in April 1956.",
+			"copyright": "Henry Griffin\/Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/politics\/sub-Greenglass\/sub-Greenglass-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/politics\/sub-Greenglass\/sub-Greenglass-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/politics\/sub-Greenglass\/sub-Greenglass-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Mr. Greenglass, with his sister, Ethel Rosenberg.",
+			"copyright": "",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit1\/15Greenglass-Obit1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit1\/15Greenglass-Obit1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit1\/15Greenglass-Obit1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Ruth Greenglass, wife of Mr. Greenglass, in 1951. She had a supporting role in the conspiracy and gave damning testimony against the Rosenbergs. She died in 2008.",
+			"copyright": "The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit2\/15Greenglass-Obit2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit2\/15Greenglass-Obit2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit2\/15Greenglass-Obit2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Mr. Greenglass, left, with a United States marshal in 1950.",
+			"copyright": "Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit3\/15Greenglass-Obit3-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit3\/15Greenglass-Obit3-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/15\/us\/15Greenglass-Obit3\/15Greenglass-Obit3-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Ethel Greenglass Rosenberg and her brother, David Greenglass, outside their childhood home.",
+			"copyright": "",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/14\/us\/15GREENGLASS-hp\/15GREENGLASS-hp-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/14\/us\/15GREENGLASS-hp\/15GREENGLASS-hp-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/14\/us\/15GREENGLASS-hp\/15GREENGLASS-hp-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/09\/us\/ebola-us-thomas-eric-duncan.html",
+		"adx_keywords": "Ebola Virus;Dallas (Tex);Duncan, Thomas Eric;Texas Health Presbyterian Hospital;Liberia;Epidemics;Monrovia (Liberia)",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By MANNY FERNANDEZ and DAVE PHILIPPS",
+		"type": "Article",
+		"title": "Death of Thomas Eric Duncan in Dallas Fuels Alarm Over Ebola",
+		"abstract": "Mr. Duncan\u2019s death renewed questions about health officials\u2019 preparedness to contain Ebola. Hours after, hospital officials said a second patient had been admitted in Dallas.",
+		"published_date": "2014-10-09",
+		"source": "The New York Times",
+		"id": "100000003159856",
+		"asset_id": 100000003159856,
+		"views": 12,
+		"des_facet": ["EBOLA VIRUS", "EPIDEMICS"],
+		"org_facet": ["TEXAS HEALTH PRESBYTERIAN HOSPITAL"],
+		"per_facet": ["DUNCAN, THOMAS ERIC"],
+		"geo_facet": ["DALLAS (TEX)", "LIBERIA", "MONROVIA (LIBERIA)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Sgt. Michael Monnig of the Dallas County sheriff&rsquo;s office was taken to a hospital Wednesday and monitored for Ebola exposure.",
+			"copyright": "Joe Raedle\/Getty Images",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/09duncan1\/09duncan1-thumbStandard-v2.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/09duncan1\/09duncan1-thumbLarge-v2.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/us\/09duncan1\/09duncan1-mediumThreeByTwo210-v3.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Thomas Eric Duncan, 42, the Liberian man who was the first person diagnosed with Ebola in the United States.",
+			"copyright": "via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/09\/us\/JP-DUNCAN1\/JP-DUNCAN1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/09\/us\/JP-DUNCAN1\/JP-DUNCAN1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/09\/us\/JP-DUNCAN1\/JP-DUNCAN1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Saymendy Lloyd at a memorial service for Mr. Duncan at Wilshire Baptist Church in Dallas.",
+			"copyright": "Cooper Neill for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/09\/us\/SUB-JP-DUNCAN\/SUB-JP-DUNCAN-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/09\/us\/SUB-JP-DUNCAN\/SUB-JP-DUNCAN-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/09\/us\/SUB-JP-DUNCAN\/SUB-JP-DUNCAN-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/22\/us\/heirs-to-an-oil-fortune-join-the-divestment-drive.html",
+		"adx_keywords": "Rockefeller Foundation;Global Warming;Philanthropy;Greenhouse Gas Emissions;Oil (Petroleum) and Gasoline;Stocks and Bonds;Endowments;Colleges and Universities",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By JOHN SCHWARTZ",
+		"type": "Article",
+		"title": "Rockefellers, Heirs to an Oil Fortune, Will Divest Charity of Fossil Fuels",
+		"abstract": "The family whose legendary wealth flowed from Standard Oil is planning to rid its $860 million Rockefeller Brothers Fund of investments in companies trading in nonrenewable energy.",
+		"published_date": "2014-09-22",
+		"source": "The New York Times",
+		"id": "100000003129661",
+		"asset_id": 100000003129661,
+		"views": 13,
+		"des_facet": ["GREENHOUSE GAS EMISSIONS", "OIL (PETROLEUM) AND GASOLINE", "STOCKS AND BONDS", "ENDOWMENTS", "COLLEGES AND UNIVERSITIES"],
+		"org_facet": ["ROCKEFELLER FOUNDATION"],
+		"per_facet": "",
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Stephen Heintz, left, with Valerie Rockefeller Wayne and Steven Rockefeller on Tuesday.",
+			"copyright": "Hiroko Masuike\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/DIVEST\/DIVEST-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/DIVEST\/DIVEST-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/DIVEST\/DIVEST-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/28\/us\/politics\/chelsea-clinton-gives-birth-to-a-daughter-charlotte.html",
+		"adx_keywords": "Clinton, Chelsea;Clinton, Hillary Rodham;Clinton, Bill;Mezvinsky, Marc;Mezvinsky, Charlotte Clinton",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By AMY CHOZICK and NICHOLAS KULISH",
+		"type": "Article",
+		"title": "Daughter for Chelsea Clinton (and Granddaughter for a Certain Couple)",
+		"abstract": "The child, Charlotte, whose birth was announced on Twitter early Saturday, is the first for Ms. Clinton and her husband, Marc Mezvinsky.",
+		"published_date": "2014-09-28",
+		"source": "The New York Times",
+		"id": "100000003142980",
+		"asset_id": 100000003142980,
+		"views": 14,
+		"des_facet": "",
+		"org_facet": "",
+		"per_facet": ["CLINTON, CHELSEA", "CLINTON, HILLARY RODHAM", "CLINTON, BILL", "MEZVINSKY, MARC", "MEZVINSKY, CHARLOTTE CLINTON"],
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Hillary Rodham Clinton and Bill Clinton with their granddaughter, Charlotte Clinton Mezvinsky.",
+			"copyright": "Jon Davidson\/Office of President Clinton",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/CLINTON-1\/CLINTON-1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/CLINTON-1\/CLINTON-1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/CLINTON-1\/CLINTON-1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Chelsea Clinton and Marc Mezvinsky with their daughter, Charlotte Clinton Mezvinsky.",
+			"copyright": "Jon Davidson\/Office of President Clinton",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/CLINTON-2\/CLINTON-2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/CLINTON-2\/CLINTON-2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/CLINTON-2\/CLINTON-2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Chelsea Clinton earlier this month. The baby was born on Friday, according to a Clinton spokesman.",
+			"copyright": "Ray Stubblebine\/European Pressphoto Agency",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/28clinton-img\/28clinton-img-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/28clinton-img\/28clinton-img-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/us\/28clinton-img\/28clinton-img-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/30\/us\/white-house-intruder-got-farther-than-first-reported-official-says.html",
+		"adx_keywords": "White House Building (Washington, DC);Secret Service;Gonzalez, Omar J (1972- )",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By MICHAEL D. SHEAR and MICHAEL S. SCHMIDT",
+		"type": "Article",
+		"title": "Armed Intruder at White House Got to East Room",
+		"abstract": "The man who jumped the White House fence made it far deeper into the mansion than previously disclosed, overpowering a Secret Service agent before he was tackled, a member of Congress said.",
+		"published_date": "2014-09-30",
+		"source": "The New York Times",
+		"id": "100000003146846",
+		"asset_id": 100000003146846,
+		"views": 15,
+		"des_facet": ["WHITE HOUSE BUILDING (WASHINGTON, DC)"],
+		"org_facet": ["SECRET SERVICE"],
+		"per_facet": ["GONZALEZ, OMAR J (1972- )"],
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Omar J. Gonzalez,&nbsp;who jumped the White House fence this month, reportedly got as far as the entrance to the Green Room before being stopped.",
+			"copyright": "Michael Reynolds\/European Pressphoto Agency",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/us\/SECRET-web\/SECRET-web-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/us\/SECRET-web\/SECRET-web-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/us\/SECRET-web\/SECRET-web-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/16\/us\/ebola-infected-dallas-health-worker-was-on-flight.html",
+		"adx_keywords": "Ebola Virus;Dallas (Tex);Frontier Airlines Inc;Duncan, Thomas Eric;Airlines and Airplanes;Centers for Disease Control and Prevention",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By TIMOTHY WILLIAMS",
+		"type": "Article",
+		"title": "Ebola-Infected Health Worker in Dallas Took a Flight on Monday",
+		"abstract": "The head of the Centers for Disease Control and Prevention said the worker, who had cared for a Liberian patient and contracted the disease, should not have been allowed on a commercial airline.",
+		"published_date": "2014-10-16",
+		"source": "The New York Times",
+		"id": "100000003177332",
+		"asset_id": 100000003177332,
+		"views": 16,
+		"des_facet": ["EBOLA VIRUS", "AIRLINES AND AIRPLANES"],
+		"org_facet": ["FRONTIER AIRLINES INC", "CENTERS FOR DISEASE CONTROL AND PREVENTION"],
+		"per_facet": ["DUNCAN, THOMAS ERIC"],
+		"geo_facet": ["DALLAS (TEX)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Dallas fire rescue workers wearing protective gear on Wednesday taped off a door at the Village Bend East apartments, where a second health care worker who has tested positive for Ebola lives.",
+			"copyright": "Sana Syed\/City of Dallas Public Information, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/FLIGHT-web\/FLIGHT-web-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/FLIGHT-web\/FLIGHT-web-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/16\/us\/FLIGHT-web\/FLIGHT-web-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/18\/us\/ebola-cruise-ship-dallas.html",
+		"adx_keywords": "Ebola Virus;Texas Health Presbyterian Hospital;Hospitals;Cruises",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By SABRINA TAVERNISE and MITCH SMITH",
+		"type": "Article",
+		"title": "Obama Names Democratic Operative to Coordinate Ebola Response ",
+		"abstract": "The appointment of Ron Klain, a White House veteran, spoke of the seriousness of the situation for the administration, which hoped to put the management of the crisis back on track.",
+		"published_date": "2014-10-18",
+		"source": "The New York Times",
+		"id": "100000003181616",
+		"asset_id": 100000003181616,
+		"views": 17,
+		"des_facet": ["EBOLA VIRUS", "HOSPITALS", "CRUISES"],
+		"org_facet": ["TEXAS HEALTH PRESBYTERIAN HOSPITAL"],
+		"per_facet": "",
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "In Belton, Tex., on Friday, environmental workers prepared to disinfect North Belton Middle School, which had been closed because of the Ebola scare.",
+			"copyright": "Rusty Schramm\/The Temple Daily Telegram, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/EBOLA1\/EBOLA1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/EBOLA1\/EBOLA1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/EBOLA1\/EBOLA1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "A ship carrying a hospital worker who had handled Ebola specimens was returning to Texas.",
+			"copyright": "Reuters",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/EBOLA2\/EBOLA2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/EBOLA2\/EBOLA2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/18\/us\/EBOLA2\/EBOLA2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/25\/us\/republicans-corporate-donors-governors.html",
+		"adx_keywords": "Republican Governors Assn;Lobbying and Lobbyists;Citizens for Responsibility and Ethics in Washington;Campaign Finance;Governors (US);Nonprofit Organizations;Republican Party;Republican Governors Public Policy Committee",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By JONATHAN WEISMAN",
+		"type": "Article",
+		"title": "G.O.P. Error Reveals Donors and the Price of Access",
+		"abstract": "An unintended disclosure of documents from the Republican Governors Association opens a window onto corporate donors and the size of their checks.",
+		"published_date": "2014-09-25",
+		"source": "The New York Times",
+		"id": "100000003131404",
+		"asset_id": 100000003131404,
+		"views": 18,
+		"des_facet": ["CAMPAIGN FINANCE", "GOVERNORS (US)"],
+		"org_facet": ["REPUBLICAN GOVERNORS ASSN", "CITIZENS FOR RESPONSIBILITY AND ETHICS IN WASHINGTON", "REPUBLICAN PARTY", "REPUBLICAN GOVERNORS PUBLIC POLICY COMMITTEE"],
+		"per_facet": "",
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Access to governors was one of many benefits for donors at the Republican Governors Association&rsquo;s 2012 conference in Las Vegas.",
+			"copyright": "Monica Almeida\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/RGA\/RGA-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/RGA\/RGA-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/RGA\/RGA-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Gov. Bobby Jindal of Louisiana was at a 2011 donor event.",
+			"copyright": "Mike Theiler\/Reuters",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/JP-RGA1\/JP-RGA1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/JP-RGA1\/JP-RGA1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/JP-RGA1\/JP-RGA1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Gov. Rick Perry of Texas was at the event, in Washington.",
+			"copyright": "Ricardo B. Brazziell\/Austin American-Statesman, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/JP-RGA2\/JP-RGA2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/JP-RGA2\/JP-RGA2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/25\/us\/JP-RGA2\/JP-RGA2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/29\/us\/fumbled-bid-for-governor-imperils-ohio-democrats.html",
+		"adx_keywords": "Ohio;Kasich, John R;FitzGerald, Ed (1968- );Elections, Governors;Democratic Party;Republican Party;Midterm Elections (2014)",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By TRIP GABRIEL",
+		"type": "Article",
+		"title": "Fumbled Bid for Governor Imperils Ohio Democrats",
+		"abstract": "Democrats had hoped a rousing fight in 2014 would energize the party&#8217;s grass roots and carry into the next presidential contest. Instead, they are facing a shutout in statewide races.",
+		"published_date": "2014-09-29",
+		"source": "The New York Times",
+		"id": "100000003136863",
+		"asset_id": 100000003136863,
+		"views": 19,
+		"des_facet": ["ELECTIONS, GOVERNORS", "MIDTERM ELECTIONS (2014)"],
+		"org_facet": ["DEMOCRATIC PARTY", "REPUBLICAN PARTY"],
+		"per_facet": ["KASICH, JOHN R", "FITZGERALD, ED (1968- )"],
+		"geo_facet": ["OHIO"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Ed FitzGerald, the Democratic candidate for governor in Ohio, at Blind Bob&rsquo;s, a bar in Dayton. He trails the incumbent&nbsp; John Kasich in the polls.",
+			"copyright": "Ty William Wright for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/29\/us\/OHIO\/OHIO-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/29\/us\/OHIO\/OHIO-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/29\/us\/OHIO\/OHIO-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "A Democratic supporter in Dayton backed candidates up and down the ticket. Democrats had hoped the&nbsp; governor&rsquo;s race&nbsp; would energize the party.",
+			"copyright": "Ty William Wright for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/29\/us\/OHIO2\/OHIO2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/29\/us\/OHIO2\/OHIO2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/29\/us\/OHIO2\/OHIO2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/22\/us\/us-ramping-up-major-renewal-in-nuclear-arms.html",
+		"adx_keywords": "Nuclear Weapons;Arms Control and Limitation and Disarmament;Obama, Barack;Strategic Arms Reduction Treaty;United States Defense and Military Forces;Factories and Manufacturing;Defense Department",
+		"column": "",
+		"section": "U.S.",
+		"byline": "By WILLIAM J. BROAD and DAVID E. SANGER",
+		"type": "Article",
+		"title": "U.S. Ramping Up Major Renewal in Nuclear Arms",
+		"abstract": "An expansion comes under a president who campaigned for \u201ca nuclear-free world\u201d and made disarmament a main goal of American defense policy.",
+		"published_date": "2014-09-22",
+		"source": "The New York Times",
+		"id": "100000003096759",
+		"asset_id": 100000003096759,
+		"views": 20,
+		"des_facet": ["NUCLEAR WEAPONS", "ARMS CONTROL AND LIMITATION AND DISARMAMENT", "STRATEGIC ARMS REDUCTION TREATY"],
+		"org_facet": ["DEFENSE DEPARTMENT"],
+		"per_facet": ["OBAMA, BARACK"],
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "President Obama and Dmitri A. Medvedev, then the Russian president, in 2009 at the Kremlin in Moscow, where they signed an agreement to cut strategic nuclear arms.",
+			"copyright": "Jim Watson\/Agence France-Presse \u2014 Getty Images",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES1\/NUKES1-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES1\/NUKES1-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES1\/NUKES1-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The new National Security Campus in Kansas City, Mo.",
+			"copyright": "The Kansas City Star",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES2\/NUKES2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES2\/NUKES2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES2\/NUKES2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Los Alamos National Laboratory in New Mexico.",
+			"copyright": "Albuquerque Journal, via Associated Press",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES3\/NUKES3-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES3\/NUKES3-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES3\/NUKES3-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The Y-12 National Security Complex in Oak Ridge, Tenn.",
+			"copyright": "National Nuclear Security Administration, via Reuters",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES4\/NUKES4-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES4\/NUKES4-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/22\/us\/NUKES4\/NUKES4-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}]
+}

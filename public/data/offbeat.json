@@ -1,0 +1,1472 @@
+{
+	"status": "OK",
+	"copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+	"num_results": 18,
+	"results": [{
+		"url": "http:\/\/www.nytimes.com\/interactive\/2014\/09\/19\/travel\/reif-larsen-norway.html",
+		"adx_keywords": "",
+		"column": "",
+		"section": "Travel",
+		"byline": "By REIF LARSEN",
+		"type": "Interactive",
+		"title": "Norway the Slow Way",
+		"abstract": "A journey in which I travel north, on the world\u2019s most beautiful voyage, searching for the specter of my grandfather and a glimpse of the ever-elusive midnight sun.",
+		"published_date": "2014-09-19",
+		"source": "The New York Times",
+		"id": "100000003123645",
+		"asset_id": 100000003123645,
+		"views": 1,
+		"des_facet": ["TRAVEL AND VACATIONS"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["NORWAY"],
+		"media": [{
+			"type": "image",
+			"subtype": "",
+			"caption": "",
+			"copyright": "",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/19\/travel\/reif-larsen-norway-1411082316032\/reif-larsen-norway-1411082316032-thumbStandard-v2.png",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/19\/travel\/reif-larsen-norway-1411082316032\/reif-larsen-norway-1411082316032-thumbLarge-v2.png",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/19\/travel\/reif-larsen-norway-1411082316032\/reif-larsen-norway-1411082316032-mediumThreeByTwo210-v2.png",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2011\/05\/22\/travel\/36-hours-in-milan.html",
+		"adx_keywords": "36 Hours;Travel and Vacations;Milan (Italy)",
+		"column": "",
+		"section": "Travel",
+		"byline": "By INGRID K. WILLIAMS",
+		"type": "Article",
+		"title": "36 Hours in Milan",
+		"abstract": "With new museums and restaurants, and an ambitious center-city development nearing completion, the future is already on display in Milan.",
+		"published_date": "2011-05-22",
+		"source": "The New York Times",
+		"id": "1248069740762",
+		"asset_id": 1248069740762,
+		"views": 2,
+		"des_facet": ["TRAVEL AND VACATIONS"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["MILAN (ITALY)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Offerings at Officine del Gelato; view of the Duomo, right, from the Giacomo Arengario restaurant at the new Museo del Novecento; at El Brellin in Navigli, a hot night-life destination.",
+			"copyright": "Chris Warde-Jones for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2011\/05\/22\/travel\/22hours-span\/22hours-span-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/05\/travel\/things-to-do-in-36-hours-in-copenhagen.html",
+		"adx_keywords": "Travel and Vacations;Copenhagen (Denmark);36 Hours;Denmark",
+		"column": "",
+		"section": "Travel",
+		"byline": "By INGRID K. WILLIAMS",
+		"type": "Article",
+		"title": "36 Hours in Copenhagen",
+		"abstract": "During a weekend in the Danish capital, discover art underground, sample dishes from a former Noma chef and unwind in the city\u2019s green spaces.",
+		"published_date": "2014-10-05",
+		"source": "The New York Times",
+		"id": "100000003131244",
+		"asset_id": 100000003131244,
+		"views": 3,
+		"des_facet": "",
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["COPENHAGEN (DENMARK)", "DENMARK"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "A sandwich at Almanak, which is on the ground floor of the Standard building.",
+			"copyright": "Chris Carmichael for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-sandwich\/05-hours-sandwich-thumbStandard-v2.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-sandwich\/05-hours-sandwich-thumbLarge-v2.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-sandwich\/05-hours-sandwich-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Lidkoeb, a new bar.",
+			"copyright": "Chris Carmichael for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-drink\/05-hours-drink-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-drink\/05-hours-drink-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-drink\/05-hours-drink-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/30\/travel\/a-100-weekend-in-chicago.html",
+		"adx_keywords": "Budget Travel;Chicago (Ill);Travel and Vacations",
+		"column": "Frugal Traveler",
+		"section": "Travel",
+		"byline": "By SETH KUGEL",
+		"type": "Article",
+		"title": "A $100 Weekend in Chicago",
+		"abstract": "Sample everything from pizza to pancakes, classical music to the blues, during a frugal-friendly weekend in the Windy City.",
+		"published_date": "2014-09-30",
+		"source": "The New York Times",
+		"id": "100000003142198",
+		"asset_id": 100000003142198,
+		"views": 4,
+		"des_facet": ["BUDGET TRAVEL"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["CHICAGO (ILL)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Light fades during a performance by the Chicago Symphony Orchestra in Millennium Park. The author's seat was a good distance from the performers, but he swears they were there.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/travel\/30-frugal-orchestra\/30-frugal-orchestra-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/travel\/30-frugal-orchestra\/30-frugal-orchestra-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/travel\/30-frugal-orchestra\/30-frugal-orchestra-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The $4.99 lunch special at Pequod&rsquo;s Pizza included a molten pie and a free soda.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/travel\/30-frugal-pizza\/30-frugal-pizza-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/travel\/30-frugal-pizza\/30-frugal-pizza-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/30\/travel\/30-frugal-pizza\/30-frugal-pizza-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The Lincoln Park Conservatory.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-frugal-conservatory\/05-frugal-conservatory-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-frugal-conservatory\/05-frugal-conservatory-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-frugal-conservatory\/05-frugal-conservatory-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/28\/travel\/a-recipe-for-air-rage.html",
+		"adx_keywords": "Airlines and Airplanes;Travel and Vacations;Emotions;Anxiety and Stress;Anger (Emotion);Sleep;Psychology and Psychologists",
+		"column": "The Getaway",
+		"section": "Travel",
+		"byline": "By STEPHANIE ROSENBLOOM",
+		"type": "Article",
+		"title": "A Recipe for Air Rage",
+		"abstract": "Stressed passengers packed into cramped cabins can bring emotions to a boil. But the situation isn\u2019t all bleak \u2014 there are ways to make the best of a volatile situation.",
+		"published_date": "2014-09-28",
+		"source": "The New York Times",
+		"id": "100000003126572",
+		"asset_id": 100000003126572,
+		"views": 5,
+		"des_facet": ["AIRLINES AND AIRPLANES", "ANGER (EMOTION)"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "",
+			"copyright": "Boris Kulikov",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28GETAWAY\/28GETAWAY-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28GETAWAY\/28GETAWAY-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28GETAWAY\/28GETAWAY-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "",
+			"copyright": "Boris Kulikov",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-getaway-illo2\/28-getaway-illo2-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-getaway-illo2\/28-getaway-illo2-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-getaway-illo2\/28-getaway-illo2-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/12\/travel\/things-to-do-in-36-hours-in-berkeley-calif.html",
+		"adx_keywords": "Travel and Vacations;Berkeley (Calif);36 Hours",
+		"column": "",
+		"section": "Travel",
+		"byline": "By BONNIE TSUI",
+		"type": "Article",
+		"title": "36 Hours in Berkeley, Calif.",
+		"abstract": "Go for an idyllic campus stroll, take in wide-open panoramas, sample international flavors and catch some culture during a weekend in this Bay Area college town.",
+		"published_date": "2014-10-12",
+		"source": "The New York Times",
+		"id": "100000003148535",
+		"asset_id": 100000003148535,
+		"views": 6,
+		"des_facet": "",
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["BERKELEY (CALIF)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The Lawrence Hall of Science.",
+			"copyright": "Oresti Tsonopoulos for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-science\/12-hours-science-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-science\/12-hours-science-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-science\/12-hours-science-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Chez Panisse.",
+			"copyright": "Oresti Tsonopoulos for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-chez\/12-hours-chez-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-chez\/12-hours-chez-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-chez\/12-hours-chez-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/interactive\/2014\/01\/10\/travel\/2014-places-to-go.html",
+		"adx_keywords": "",
+		"column": "",
+		"section": "Travel",
+		"byline": "",
+		"type": "Interactive",
+		"title": "52 Places to Go in 2014",
+		"abstract": "From No. 1 Cape Town all the way to No. 52 Niagara Falls, N.Y., explore the vibrant cities and spectacular coastlines, unexpected spots and new attractions that made our list this year.",
+		"published_date": "2014-01-10",
+		"source": "The New York Times",
+		"id": "100000002640823",
+		"asset_id": 100000002640823,
+		"views": 7,
+		"des_facet": ["TRAVEL AND VACATIONS"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "",
+			"caption": "",
+			"copyright": "",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/01\/12\/travel\/12-ptg-sf-span\/12-ptg-sf-span-thumbStandard-v2.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/01\/12\/travel\/12-ptg-sf-span\/12-ptg-sf-span-thumbLarge-v2.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/01\/12\/travel\/12-ptg-sf-span\/12-ptg-sf-span-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/28\/travel\/things-to-do-in-36-hours-in-florence-italy.html",
+		"adx_keywords": "Travel and Vacations;Florence (Italy);36 Hours;Italy",
+		"column": "",
+		"section": "Travel",
+		"byline": "By INGRID K. WILLIAMS",
+		"type": "Article",
+		"title": "36 Hours in Florence, Italy",
+		"abstract": "See the skyline without battling crowds, sample pastries from a secret gem, sip artisanal beers and soak up culture during a weekend in the Tuscan capital.",
+		"published_date": "2014-09-28",
+		"source": "The New York Times",
+		"id": "100000003117473",
+		"asset_id": 100000003117473,
+		"views": 8,
+		"des_facet": "",
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["FLORENCE (ITALY)", "ITALY"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Giardino di Boboli.",
+			"copyright": "Alexandra Garcia\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-garden\/28-hours-garden-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-garden\/28-hours-garden-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-garden\/28-hours-garden-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Caff&egrave; Letterario.",
+			"copyright": "Alexandra Garcia\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-caffe\/28-hours-caffe-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-caffe\/28-hours-caffe-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-caffe\/28-hours-caffe-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Antica Officina del Farmacista Dr. Vranjes.",
+			"copyright": "Alexandra Garcia\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-doctor\/28-hours-doctor-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-doctor\/28-hours-doctor-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-hours-doctor\/28-hours-doctor-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/05\/travel\/in-chicago-a-tasting-tour-of-barrel-aged-beer.html",
+		"adx_keywords": "Travel and Vacations;Chicago (Ill);Beer;Bourbon (Whiskey);Illinois",
+		"column": "Pursuits",
+		"section": "Travel",
+		"byline": "By GUSTAVE AXELSON",
+		"type": "Article",
+		"title": "In Chicago, a Tasting Tour of Barrel-Aged Beer",
+		"abstract": "The city is a bastion of craft brews that gain character from time spent in bourbon barrels.",
+		"published_date": "2014-10-05",
+		"source": "The New York Times",
+		"id": "100000003131069",
+		"asset_id": 100000003131069,
+		"views": 9,
+		"des_facet": ["TRAVEL AND VACATIONS", "BOURBON (WHISKEY)"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["CHICAGO (ILL)", "ILLINOIS"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Goose Island&lsquo;s head brewer, Jared Jankoski.",
+			"copyright": "Kevin J. Miyazaki for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-top\/05-pursuits-top-thumbStandard-v2.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-top\/05-pursuits-top-thumbLarge-v2.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-top\/05-pursuits-top-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Deth&rsquo;s Tar, a stout from Revolution Brewing that's aged in bourbon barrels.",
+			"copyright": "Kevin J. Miyazaki for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-pour\/05-pursuits-pour-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-pour\/05-pursuits-pour-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-pour\/05-pursuits-pour-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Taps at Revolution Brewing.",
+			"copyright": "Kevin J. Miyazaki for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-taps\/05-pursuits-taps-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-taps\/05-pursuits-taps-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-taps\/05-pursuits-taps-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Local Option, a craft beer pub.",
+			"copyright": "Kevin J. Miyazaki for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-localoption\/05-pursuits-localoption-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-localoption\/05-pursuits-localoption-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-localoption\/05-pursuits-localoption-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Barrels at Goose Island Brewery.",
+			"copyright": "Kevin J. Miyazaki for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-barrels\/05-pursuits-barrels-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-barrels\/05-pursuits-barrels-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-pursuits-barrels\/05-pursuits-barrels-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/05\/travel\/finding-your-travel-tribe.html",
+		"adx_keywords": "Travel and Vacations;Hotels and Travel Lodgings;Computers and the Internet;Yelp;TripAdvisor.com;Restaurants;TripExpert Inc",
+		"column": "The Getaway",
+		"section": "Travel",
+		"byline": "By STEPHANIE ROSENBLOOM",
+		"type": "Article",
+		"title": "Finding Your Travel Tribe",
+		"abstract": "Which review site speaks to who you are as a traveler?",
+		"published_date": "2014-10-05",
+		"source": "The New York Times",
+		"id": "100000003134126",
+		"asset_id": 100000003134126,
+		"views": 10,
+		"des_facet": ["TRAVEL AND VACATIONS", "HOTELS AND TRAVEL LODGINGS", "COMPUTERS AND THE INTERNET", "RESTAURANTS"],
+		"org_facet": ["YELP", "TRIPADVISOR.COM", "TRIPEXPERT INC"],
+		"per_facet": "",
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "",
+			"copyright": "Luci Guti\u00e9rrez",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-illo\/05-hours-illo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-illo\/05-hours-illo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-hours-illo\/05-hours-illo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/05\/travel\/savannah-both-sides.html",
+		"adx_keywords": "Travel and Vacations;Savannah (Ga);Blacks;Slavery;Race and Ethnicity;Evans, Walter O;Civil Rights and Liberties;Georgia",
+		"column": "",
+		"section": "Travel",
+		"byline": "By RON STODGHILL",
+		"type": "Article",
+		"title": "Savannah, Both Sides",
+		"abstract": "Beneath its trademark Southern charm is a city with stories of slavery and civil rights struggles.",
+		"published_date": "2014-10-05",
+		"source": "The New York Times",
+		"id": "100000003135254",
+		"asset_id": 100000003135254,
+		"views": 11,
+		"des_facet": ["BLACKS", "RACE AND ETHNICITY"],
+		"org_facet": "",
+		"per_facet": ["EVANS, WALTER O"],
+		"geo_facet": ["SAVANNAH (GA)", "GEORGIA"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Laurel Grove South Cemetery in Savannah, a significant burial ground for local African-Americans.",
+			"copyright": "Adam Kuehl for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-top\/05-savannah-top-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-top\/05-savannah-top-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-top\/05-savannah-top-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Walter O. Evans, a Savannah-born African-American art collector. A wing at the Savannah College of Art and&nbsp;Design bears his name and houses his art.",
+			"copyright": "Adam Kuehl for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-evans\/05-savannah-evans-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-evans\/05-savannah-evans-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-evans\/05-savannah-evans-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/12\/travel\/new-zealand-for-beginners.html",
+		"adx_keywords": "Skiing;Hikes and Hiking;Travel and Vacations;Wanaka (New Zealand)",
+		"column": "",
+		"section": "Travel",
+		"byline": "By JOE DRAPE",
+		"type": "Article",
+		"title": "New Zealand for Beginners",
+		"abstract": "Finding himself in a country he\u2019d never given much thought, the author manages to hurtle down slopes, go on a picturesque \u201ctramp\u201d and hit some pubs \u2014 all in a few days.",
+		"published_date": "2014-10-12",
+		"source": "The New York Times",
+		"id": "100000003139122",
+		"asset_id": 100000003139122,
+		"views": 12,
+		"des_facet": ["SKIING", "HIKES AND HIKING", "TRAVEL AND VACATIONS"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["WANAKA (NEW ZEALAND)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The Cardrona Alpine Resort on New Zealand's South Island.",
+			"copyright": "Andrew Quilty for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-cover-top\/12-cover-top-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-cover-top\/12-cover-top-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-cover-top\/20141012-COVERN2-slide-1PD0-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/28\/travel\/in-the-northwest-3-trips-planned-by-others.html",
+		"adx_keywords": "Budget Travel;Vancouver (British Columbia);San Juan Islands (Wash);Portland (Ore);Travel and Vacations",
+		"column": "Frugal Traveler",
+		"section": "Travel",
+		"byline": "By SETH KUGEL",
+		"type": "Article",
+		"title": "In the Northwest, 3 Trips, Planned by Others",
+		"abstract": "The Frugal Traveler surrenders itinerary control and follows the orders of others through Vancouver, the San Juan Islands and Portland, Ore.",
+		"published_date": "2014-09-28",
+		"source": "The New York Times",
+		"id": "100000003130740",
+		"asset_id": 100000003130740,
+		"views": 13,
+		"des_facet": ["BUDGET TRAVEL"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["VANCOUVER (BRITISH COLUMBIA)", "SAN JUAN ISLANDS (WASH)", "PORTLAND (ORE)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Clockwise from left: a view from Lopez Island, part of the San Juan Islands; Vancouver's Gastown area; the author smokes a cigar in Portland, Ore.",
+			"copyright": "Seth Kugel for The New York Times; Kiran Herbert (cigar)",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-top\/28-frugal-top-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-top\/28-frugal-top-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-top\/28-frugal-top-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The bosses for the Vancouver leg: Peter and Judy Kugel, the author's parents.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-vancover\/28-frugal-boss-vancover-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-vancover\/28-frugal-boss-vancover-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-vancover\/28-frugal-boss-vancover-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The Vancouver Leg | Clockwise from top left: a view from Queen Elizabeth Park; the Marine Building; and looking out over the city from the Galley Patio and Grill.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-vancouver-combo\/28-frugal-vancouver-combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-vancouver-combo\/28-frugal-vancouver-combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-vancouver-combo\/28-frugal-vancouver-combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The boss for the San Juan Islands leg: Caroline Gonzalez, the author's friend and Queens neighbor.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-sanjuan\/28-frugal-boss-sanjuan-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-sanjuan\/28-frugal-boss-sanjuan-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-sanjuan\/28-frugal-boss-sanjuan-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The San Juan Islands Leg | Clockwise from top left: Produce at a farmers' market on Orcas Island; a view from Mount Constitution; a handful of goodies grown on Lopez Island; a late afternoon water view.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-sanjuan-combo\/28-frugal-sanjuan-combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-sanjuan-combo\/28-frugal-sanjuan-combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-sanjuan-combo\/28-frugal-sanjuan-combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The boss for the Portland leg: Kiran Herbert, a writer the author is working with.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-portland\/28-frugal-boss-portland-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-portland\/28-frugal-boss-portland-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-boss-portland\/28-frugal-boss-portland-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "The Portland Leg | Clockwise from top left: Dosas from the Tiffin Asha food cart; polenta at Tasty n Sons; and Punchbowl Falls, outside of Portland.",
+			"copyright": "Seth Kugel for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-portland-combo\/28-frugal-portland-combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-portland-combo\/28-frugal-portland-combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-portland-combo\/28-frugal-portland-combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "",
+			"copyright": "Seth Kugel for The New York Times; Kiran Herbert (cigar)",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-top-sf\/28-frugal-top-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-top-sf\/28-frugal-top-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-frugal-top-sf\/28-frugal-top-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/12\/travel\/the-art-of-slowing-down-in-a-museum.html",
+		"adx_keywords": "Art;Museums;Travel and Vacations",
+		"column": "The Getaway",
+		"section": "Travel",
+		"byline": "By STEPHANIE ROSENBLOOM",
+		"type": "Article",
+		"title": "The Art of Slowing Down in a Museum",
+		"abstract": "Instead of hunting masterpieces at a fevered clip, spending more time with fewer works just might make for a better visit.",
+		"published_date": "2014-10-12",
+		"source": "The New York Times",
+		"id": "100000003153780",
+		"asset_id": 100000003153780,
+		"views": 14,
+		"des_facet": ["ART", "MUSEUMS", "TRAVEL AND VACATIONS"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": "",
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Fighting for a snapshot of the Mona Lisa at the Louvre. Some psychologists suggest that taking a slower, more contemplative approach at museums could make visitors more likely to connect with the art.",
+			"copyright": "Guia Besana for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-getaway-top\/12-getaway-top-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-getaway-top\/12-getaway-top-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-getaway-top\/12-getaway-top-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "A gallery at the Metropolitan Museum of Art in New York. Sandra&nbsp;Jackson-Dumont,&nbsp;who oversees education programs at the museum, said you could make a sprawling museum digestible and personal by seeking out only those works that dovetail with your interests.",
+			"copyright": "Todd Heisler\/The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-getaway-inline\/12-getaway-inline-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-getaway-inline\/12-getaway-inline-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-getaway-inline\/12-getaway-inline-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/21\/travel\/things-to-do-in-36-hours-in-central-park-new-york.html",
+		"adx_keywords": "Travel and Vacations;Central Park (Manhattan, NY);New York City",
+		"column": "",
+		"section": "Travel",
+		"byline": "By STEPHANIE ROSENBLOOM",
+		"type": "Article",
+		"title": "36 Hours: Central Park, New York",
+		"abstract": "Spot birds and gaze at stars, explore gardens and go for a row, snack on a roof and sway to some jazz during a weekend in the city\u2019s sanctuary.",
+		"published_date": "2014-09-21",
+		"source": "The New York Times",
+		"id": "100000003111265",
+		"asset_id": 100000003111265,
+		"views": 15,
+		"des_facet": ["TRAVEL AND VACATIONS"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["CENTRAL PARK (MANHATTAN, NY)", "NEW YORK CITY"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "A view of the park from One57, looking north.",
+			"copyright": "Piotr Redlinski for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/travel\/21-hours-overview\/21-hours-overview-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/travel\/21-hours-overview\/21-hours-overview-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/travel\/21-hours-overview\/21-hours-overview-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Rowing near the Loeb Boathouse.",
+			"copyright": "Piotr Redlinski for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/travel\/21-hours-row\/21-hours-row-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/travel\/21-hours-row\/21-hours-row-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/21\/travel\/21-hours-row\/21-hours-row-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/19\/travel\/12-treasures-of-europe.html",
+		"adx_keywords": "Travel and Vacations;Berlin (Germany);Brussels (Belgium);Budapest (Hungary);Copenhagen (Denmark);Florence (Italy);Istanbul (Turkey);Lisbon (Portugal);London (England);Madrid (Spain);Paris (France);Prague (Czech Republic);Sarajevo (Bosnia and Herzegovina);Culture (Arts);Brick and Tile;Guitars;Hats and Caps;Paprika;Toys;Chocolate;Textiles;Umbrellas;Coffee",
+		"column": "",
+		"section": "Travel",
+		"byline": "By THE NEW YORK TIMES",
+		"type": "Article",
+		"title": "12 Treasures of Europe",
+		"abstract": "From chocolate in Brussels and silk in Florence to umbrellas in Paris and hats in London, discover special items in a dozen European cities.",
+		"published_date": "2014-10-19",
+		"source": "The New York Times",
+		"id": "100000003161053",
+		"asset_id": 100000003161053,
+		"views": 16,
+		"des_facet": ["CULTURE (ARTS)", "HATS AND CAPS", "CHOCOLATE", "TEXTILES", "UMBRELLAS", "COFFEE"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["BERLIN (GERMANY)", "BRUSSELS (BELGIUM)", "BUDAPEST (HUNGARY)", "COPENHAGEN (DENMARK)", "FLORENCE (ITALY)", "ISTANBUL (TURKEY)", "LISBON (PORTUGAL)", "LONDON (ENGLAND)", "MADRID (SPAIN)", "PARIS (FRANCE)", "PRAGUE (CZECH REPUBLIC)", "SARAJEVO (BOSNIA AND HERZEGOVINA)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Clockwise from left: Furniture at Normann Copenhagen, Mary chocolate store in Brussels and silk from Antico Setificio Fiorentino in Florence.",
+			"copyright": "Normann Copenhagen; Mary; Stefano Ricci \/ASF by Egon Ipse",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-top\/19-cover-top-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-top\/19-cover-top-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-top\/19-cover-top-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>BERLIN<\/strong> | Top: \"Broken Bells,\" left, and a cuckoo clock sculpture, both by Stefan Strumbel, at Circle Culture. Bottom: the artist Jim Avignon stands in front of one of his murals.",
+			"copyright": "Mike Terry for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-berlin-combo\/19-cover-berlin-combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-berlin-combo\/19-cover-berlin-combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-berlin-combo\/19-cover-berlin-combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>BRUSSELS<\/strong> | Displays at Mary chocolate shop.",
+			"copyright": "Mary",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-brussels-inline\/19-cover-brussels-inline-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-brussels-inline\/19-cover-brussels-inline-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-brussels-inline\/19-cover-brussels-inline-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>BUDAPEST<\/strong> | Paprika at the Central Market Hall.",
+			"copyright": "Marta NASCIMENTO\/REA, via Redux",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-budapest-inline\/19-cover-budapest-inline-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-budapest-inline\/19-cover-budapest-inline-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-budapest-inline\/19-cover-budapest-inline-mediumThreeByTwo210-v2.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>COPENHAGEN<\/strong> | A display at Normann Copenhagen.",
+			"copyright": "Normann Copenhagen",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-copenhagen-inline\/19-cover-copenhagen-inline-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-copenhagen-inline\/19-cover-copenhagen-inline-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-copenhagen-inline\/19-cover-copenhagen-inline-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>FLORENCE<\/strong> | A silk loom at Antico Setificio Fiorentino.",
+			"copyright": "Stefano Ricci \/ASF by Bernardo Conti",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-florence-inline\/19-cover-florence-inline-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-florence-inline\/19-cover-florence-inline-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-florence-inline\/19-cover-florence-inline-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>ISTANBUL<\/strong> | Products at Lokum Istanbul.",
+			"copyright": "Metin Birkan Akbas",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-istanbul-inline\/19-cover-istanbul-inline-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-istanbul-inline\/19-cover-istanbul-inline-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-istanbul-inline\/19-cover-istanbul-inline-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>LISBON<\/strong> | Solar, a nearly 60-year-old tile specialist and antique dealer.",
+			"copyright": "Solar",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-lisbon-inline\/19-cover-lisbon-inline-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-lisbon-inline\/19-cover-lisbon-inline-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-lisbon-inline\/19-cover-lisbon-inline-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>LONDON<\/strong> | Working at Rachel Trevor-Morgan's millinery, and a finished hat.",
+			"copyright": "Emli Bendixen for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-london-combo\/19-cover-london-combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-london-combo\/19-cover-london-combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-london-combo\/19-cover-london-combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>MADRID<\/strong> | Inside Mariano Conde's guitar shop.",
+			"copyright": "Gianfranco Tripodo for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-madrid-combo\/19-cover-madrid-combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-madrid-combo\/19-cover-madrid-combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-madrid-combo\/19-cover-madrid-combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>PARIS<\/strong> | Michel Heurtault and his Parasolerie Heurtault umbrella shop.",
+			"copyright": "Julien Bourgeois for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-paris-combo\/19-cover-paris-combo-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-paris-combo\/19-cover-paris-combo-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-paris-combo\/19-cover-paris-combo-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>PRAGUE<\/strong> | The Retro Hracky toy shop.",
+			"copyright": "Michal Novotny for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-prague-inline\/19-cover-prague-inline-thumbStandard-v2.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-prague-inline\/19-cover-prague-inline-thumbLarge-v2.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-prague-inline\/19-cover-prague-inline-mediumThreeByTwo210-v2.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "<strong>SARAJEVO<\/strong> | Traditional Bosnian coffee.",
+			"copyright": "Filip Horvat for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-sarajevo-inline\/19-cover-sarajevo-inline-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-sarajevo-inline\/19-cover-sarajevo-inline-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/19\/travel\/19-cover-sarajevo-inline\/19-cover-sarajevo-inline-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/10\/19\/travel\/things-to-do-in-36-hours-in-athens.html",
+		"adx_keywords": "Travel and Vacations;Athens (Greece);36 Hours",
+		"column": "",
+		"section": "Travel",
+		"byline": "By JOANNA KAKISSIS",
+		"type": "Article",
+		"title": "36 Hours in Athens",
+		"abstract": "The city\u2019s self-confidence and creativity are stirring again after years of tough press that defined Athens as a beleaguered capital.",
+		"published_date": "2014-10-19",
+		"source": "The New York Times",
+		"id": "100000003161195",
+		"asset_id": 100000003161195,
+		"views": 17,
+		"des_facet": "",
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["ATHENS (GREECE)"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Visitors at the Acropolis.",
+			"copyright": "Chris Carmichael for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-acropolis\/12-hours-acropolis-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-acropolis\/12-hours-acropolis-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-acropolis\/12-hours-acropolis-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Six d.o.g.s., a cafe-bar and arts space.",
+			"copyright": "Chris Carmichael for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-dogs\/12-hours-dogs-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-dogs\/12-hours-dogs-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-dogs\/12-hours-dogs-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}, {
+		"url": "http:\/\/www.nytimes.com\/2014\/09\/28\/travel\/giving-the-paris-cafe-scene-a-jolt.html",
+		"adx_keywords": "Travel and Vacations;Coffeehouses;Paris (France);Coffee;France",
+		"column": "Heads Up",
+		"section": "Travel",
+		"byline": "By SETH SHERWOOD",
+		"type": "Article",
+		"title": "Giving the Paris Cafe Scene a Jolt",
+		"abstract": "Over the last few years, more than a dozen new-generation coffee spots have emerged, offering alternatives to cookie-cutter Parisian cafes.",
+		"published_date": "2014-09-28",
+		"source": "The New York Times",
+		"id": "100000003130533",
+		"asset_id": 100000003130533,
+		"views": 18,
+		"des_facet": ["COFFEE"],
+		"org_facet": "",
+		"per_facet": "",
+		"geo_facet": ["PARIS (FRANCE)", "FRANCE"],
+		"media": [{
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Loustic opened last year in the Third Arrondissement.",
+			"copyright": "Agnes Dherbeys for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-top\/28-headsup-top-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-top\/28-headsup-top-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-top\/28-headsup-top-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "&ldquo;We are trying to educate the public that coffee is exactly like wine,&rdquo; said Channa Galhenage, who opened Loustic.",
+			"copyright": "Agnes Dherbeys for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-pour\/28-headsup-pour-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-pour\/28-headsup-pour-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-pour\/28-headsup-pour-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}, {
+			"type": "image",
+			"subtype": "photo",
+			"caption": "Boot Caf&eacute; opened earlier this year in a former cobbler's shop.",
+			"copyright": "Agnes Dherbeys for The New York Times",
+			"media-metadata": [{
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-boot\/28-headsup-boot-thumbStandard.jpg",
+				"format": "Standard Thumbnail",
+				"height": 75,
+				"width": 75
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-boot\/28-headsup-boot-thumbLarge.jpg",
+				"format": "thumbLarge",
+				"height": 150,
+				"width": 150
+			}, {
+				"url": "http:\/\/graphics8.nytimes.com\/images\/2014\/09\/28\/travel\/28-headsup-boot\/28-headsup-boot-mediumThreeByTwo210.jpg",
+				"format": "mediumThreeByTwo210",
+				"height": 140,
+				"width": 210
+			}]
+		}]
+	}]
+}
